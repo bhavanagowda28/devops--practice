@@ -1,3 +1,4 @@
 CI pipeline test
 Day 1 – Restarting my DevOps preparation
 Learning Git basics today
+Jenkins auto build test
