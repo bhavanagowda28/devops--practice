@@ -1,5 +1,7 @@
+package com.bhavana;
+
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Bhavana 🚀 DevOps working!");
+        System.out.println("Hello, Bhavana!");
     }
 }
