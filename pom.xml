@@ -15,7 +15,6 @@
                 <target>17</target> <!-- your installed Java version -->
                 <encoding>UTF-8</encoding>
             </configuration>
-        </plugin>
 
         <!-- JAR plugin for executable JAR -->
         <plugin>
